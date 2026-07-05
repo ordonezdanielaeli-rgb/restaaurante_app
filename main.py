@@ -2,7 +2,7 @@ from modelos import Platillo, Bebida
 from servicios import Restaurante
 if __name__ == "__main__":
      # 1. Crear instancia del servicio Restaurante
-     mi_restaurante = Restaurante("Delicias del Sur")
+     mi_restaurante = Restaurante("Sabor Lojanog")
      # 2. Crear objetos de Platillo (mínimo 2)
      plato1 = Platillo(
          nombre="Seco de Pollo",
